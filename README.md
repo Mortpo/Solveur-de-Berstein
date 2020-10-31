@@ -7,3 +7,14 @@ L'objectif du projet et de crée un solveur avec la méthode de Berstein et de l
 Les informations pour compiler sont dans le dossier src (astuce: 'make' suffit)
 
 Les auteurs de ce programme sont WYDER Sevrin (https://github.com/WyderSevrin) et ANQUETIN Romain
+
+# Exemple :
+
+# 1.
+![ScreenShot](/img/image1.JPG?raw=true "Exemple de d'utilisation pour une fonction personalisée")
+
+# 2.
+![ScreenShot](/img/image2.JPG?raw=true "Exemple de d'utilisation")
+
+# 3.
+![ScreenShot](/img/image3.JPG?raw=true "Exemple de d'utilisation")
