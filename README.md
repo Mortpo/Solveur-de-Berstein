@@ -6,4 +6,4 @@ L'objectif du projet et de crée un solveur avec la méthode de Berstein et de l
 
 Les informations pour compiler sont dans le dossier src (astuce: 'make' suffit)
 
-Les auteurs de ce programme sont WYDER Sevrin et ANQUETIN Romain
+Les auteurs de ce programme sont WYDER Sevrin (https://github.com/WyderSevrin) et ANQUETIN Romain
